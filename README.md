@@ -33,6 +33,7 @@ The dataset is structured as transaction-level sales records for Coca-Cola Co. p
 5. **Slicers** — added State and Retailer slicers and linked them to every PivotTable/chart on the sheet, so one click filters the entire dashboard at once rather than each chart individually.
 6. **Dashboard layout** — assembled everything onto a single dark-themed sheet, sized and positioned so the whole story fits on one screen with no scrolling.
 
+![imagealt](https://github.com/faridah-portfolio/coca-cola/blob/624bcfab1d260475051562d25311d3051cda9c28/farida_____HP_Nigeria_Sales_Data%20-%20Excel%2005_11_2025%2010_38_11%20pm.png)
 
 
 ## 🔍 Key Insights
